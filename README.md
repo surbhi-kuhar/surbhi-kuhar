@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surbhi Kuhar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.N4j1kKM0IHHhaVfQR7xD0wHaGk&pid=Api&P=0">
 
 
 - 📫 How to reach me **surbhikuhar07@gmail.com**
