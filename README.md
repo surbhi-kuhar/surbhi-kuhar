@@ -17,10 +17,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-surbhi--kuhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surbhi-kuhar)
-[![GitHub](https://img.shields.io/badge/GitHub-surbhi--kuhar-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surbhi-kuhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-surbhi--kuhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-kuhar-988b46228/)
 [![Email](https://img.shields.io/badge/Email-surbhikuhar07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surbhikuhar07@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-surbhi--kuhar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/surbhi-kuhar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-surbhi--kuhar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/surbhikuhar/)
 
 </div>
 
