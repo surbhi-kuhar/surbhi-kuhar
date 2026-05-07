@@ -29,7 +29,6 @@
 
 ```yaml
 name     : Surbhi Kuhar
-role     : Software Engineer
 focus    : Software Engineering · Full-Stack Development · System Design
 status   : [ █████████░ ] Constantly building...
 ```
@@ -73,17 +72,3 @@ status   : [ █████████░ ] Constantly building...
 
 </div>
 
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════╗
-║   Let's build something that scales.    ║
-║                                          ║
-║   📬  surbhikuhar07@gmail.com           ║
-║   💼  linkedin.com/in/surbhi-kuhar      ║
-║   🐙  github.com/surbhi-kuhar           ║
-╚══════════════════════════════════════════╝
-```
-</div>
